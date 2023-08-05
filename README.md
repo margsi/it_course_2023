@@ -2,6 +2,8 @@
 
 # Participants
 
+Simon Margreiter [Github](https://github.com/margsi)
+
 ## 11A
 * Enter your names and a link to your github repository for this course here.
 
