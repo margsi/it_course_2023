@@ -10,4 +10,4 @@
 * 
 # Topics
  * Getting to know Git and Github
- * * [Git Official website](https://git-scm.com/)
+   * [Git Official website](https://git-scm.com/)
